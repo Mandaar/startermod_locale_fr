@@ -12623,13 +12623,13 @@
          },
          "simple_wooden_chair": {
             "simple_wooden_chair_ghost": {
-               "display_name": "Chaise en bois",
+               "display_name": "Simple chaise en bois",
                "description": "Pour s'assoir."
             }
          },
          "simple_wooden_chair_fine": {
             "simple_wooden_chair_fine_ghost": {
-               "display_name": "Chaise en bois stylisé",
+               "display_name": "Simple chaise stylisé en bois",
                "description": "Pour s'assoir tout en frimant."
             }
          },
@@ -16200,7 +16200,7 @@
             },
             "simple_wooden_chair_recipe": {
                "description": "En position assise, la nourriture est 20% plus satisfaisante.",
-               "recipe_name": "Chaise en bois",
+               "recipe_name": "Simple chaise en bois",
                "flavor": "Dix mille ans de recherche ont aboutis à ce concept à quatre pieds."
             },
             "small_crate_recipe": {
