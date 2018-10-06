@@ -5470,7 +5470,7 @@
                                     "dialog_nodes": {
                                        "simple_message": {
                                           "bulletin_message": {
-                                             "000": "\"Merci, vous m'avez vraiment sauvé.<br><br>...alors, les Kobolds <i>may</i> me poursuivent parce que je <i>pourrais</i> leur avoir volé...\" Le jeune Lapin dit, timidement.<br><br>\"Ici, vous les avez gagnés.\"<br><br><font size=-1><i>[La réputation auprès des lapins a augmenté]</i></font>"
+                                             "000": "\"Merci, vous m'avez vraiment sauvé.<br><br>...alors, les Kobolds m'ont <i>peut-être</i> pourchassé parce que je les ai <i>peut-être</i> volés...\" Le jeune Lapin dit, timidement.<br><br>\"Tenez, vous les avez mérités.\"<br><br><font size=-1><i>[La réputation auprès des lapins a augmenté]</i></font>"
                                           },
                                           "bulletin_title": "Un Lapin reconnaissant",
                                           "dialog_title": "Un Lapin reconnaissant",
@@ -10446,7 +10446,7 @@
          },
          "market_shelf_tall_ground_wood": {
             "market_shelf_tall_ground_wood_ghost": {
-               "display_name": "Étagère de marché",
+               "display_name": "Étal de commerce",
                "description": "Les autres joueurs et les voyageurs peuvent acheter les objets stockés ici."
             }
          },
@@ -10472,13 +10472,13 @@
          },
          "market_shelf_tall_ground_clay": {
             "market_shelf_tall_ground_clay_ghost": {
-               "display_name": "Étagère de marché",
+               "display_name": "Étal de commerce",
                "description": "Les autres joueurs et les voyageurs peuvent acheter les objets stockés ici."
             }
          },
          "market_shelf_tall_ground_stone": {
             "market_shelf_tall_ground_stone_ghost": {
-               "display_name": "Étagère de marché",
+               "display_name": "Étal de commerce",
                "description": "Les autres joueurs et les voyageurs peuvent acheter les objets stockés ici."
             }
          }
@@ -13111,7 +13111,7 @@
          "kobolds": {
             "kobold": {
                "display_name": "[str(self.stonehearth:unit_info.custom_name)]",
-               "description": "Dévot du l'Étoile Diamant"
+               "description": "Dévot de l'Étoile Diamant"
             },
             "loot": {
                "elite_bling_hat": {
@@ -16368,7 +16368,7 @@
             },
             "market_shelf_tall_ground_wood_recipe": {
                "description": "D'autres joueurs et voyageurs peuvent acheter des marchandises stockées sur ces étagères.",
-               "recipe_name": "Étagère de marché",
+               "recipe_name": "Étal de commerce",
                "flavor": "La poubelle d'un Hearthling est le trésor d'un autre ... n'est-ce pas?"
             },
             "archer_bow_recipe": {
@@ -17773,7 +17773,7 @@
             },
             "market_shelf_tall_ground_stone": {
                "description": "D'autres joueurs et voyageurs peuvent acheter des marchandises stockées sur ces étagères.",
-               "recipe_name": "Étagère de marché",
+               "recipe_name": "Étal de commerce",
                "flavor": "La poubelle d'un Hearthling est le trésor d'un autre ... n'est-ce pas?"
             }
          }
