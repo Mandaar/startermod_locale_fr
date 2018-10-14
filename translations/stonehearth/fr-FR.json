@@ -12575,13 +12575,13 @@
          },
          "dining_table": {
             "dining_table_ghost": {
-               "display_name": "Table à manger",
+               "display_name": "Table de salle à manger",
                "description": "S'assoir pour manger est un signe de civilisation."
             }
          },
          "dining_table_fine": {
             "dining_table_fine_ghost": {
-               "display_name": "Table à manger ouvragée",
+               "display_name": "Table de salle à manger ouvragée",
                "description": "S'assoir pour manger est un signe de civilisation.<br>Encore plus sur cette version !"
             }
          },
@@ -12693,7 +12693,7 @@
          },
          "clay_dining_table": {
             "clay_dining_table_ghost": {
-               "display_name": "Table à manger en argile",
+               "display_name": "Table de salle à manger en argile",
                "description": "Enlève votre nourriture du sol"
             }
          },
@@ -12711,7 +12711,7 @@
          },
          "clay_dining_table_fine": {
             "clay_dining_table_fine_ghost": {
-               "display_name": "Table à manger ouvragée en argile",
+               "display_name": "Table de salle à manger ouvragée en argile",
                "description": "Enlève votre nourriture du sol ... dans un style"
             }
          },
@@ -16139,7 +16139,7 @@
             },
             "dining_table_recipe": {
                "description": "Permet à un groupe de personnes de manger ensemble. Comme les grands.",
-               "recipe_name": "Table à manger",
+               "recipe_name": "Table de salle à manger",
                "flavor": "S'asseoir pour manger est un signe de civilisation."
             },
             "dresser_recipe": {
@@ -16405,7 +16405,7 @@
                "flavor": "Meubles à manger pour les introvertis."
             },
             "ornate_dining_table_recipe": {
-               "recipe_name": "Table à manger ornée",
+               "recipe_name": "Table de salle à manger ornée",
                "description": "Permet à un groupe de personnes de manger ensemble. Comme les adultes.",
                "flavor": "S'asseoir pour manger est un signe de civilisation."
             },
@@ -17916,7 +17916,7 @@
             },
             "clay_dining_table_recipe": {
                "description": "Suréleve la nourriture du sol !",
-               "recipe_name": "Table à manger en argile",
+               "recipe_name": "Table de salle à manger en argile",
                "flavor": "\"Un environnement élevé, pour une conversation élevée\" "
             },
             "simple_clay_chair_recipe": {
