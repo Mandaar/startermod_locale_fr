@@ -5297,12 +5297,12 @@
                                        },
                                        "bulletin_title": "Sasha continue",
                                        "dialog_title": "Sasha étend sa main",
-                                       "choice_000": "Welcome !",
+                                       "choice_000": "Bienvenue !",
                                        "choice_001": "Euh, non merci..."
                                     },
                                     "intro": {
                                        "bulletin_message": {
-                                          "00": "Sasha s'arrête, s'appuyant sur ses genoux et haletant légèrement. \"Ouf... oh... regarde, à l'Arbalète Cristalline ! It seems... its job is done, and now it's gone dormant. Let's have it serve as a monument, a memorial, to what the friendship of our two clans could achieve!\""
+                                          "00": "Sasha s'arrête, s'appuyant sur ses genoux et haletant légèrement. \"Ouf... oh... regarde, à l'Arbalète Cristalline ! Il semble... son travail est terminé, et maintenant elle est en sommeil. Faisons-en un monument, un mémorial, en témoignage de ce que l'amitié de nos deux clans peut accomplir !\""
                                        },
                                        "bulletin_title": "Sasha continue",
                                        "dialog_title": "Sasha, Envoyé du clan Amberstone",
@@ -5446,7 +5446,7 @@
                                        },
                                        "msg2": {
                                           "bulletin_message": {
-                                             "00": "\"Dieu merci, je n'ai nulle part où aller. Je me cacherai quelque part, laisse-moi savoir quand tu seras prêt.\""
+                                             "00": "\"Dieu merci, je n'ai nulle part où aller. Je me cacherai quelque part, laisse-moi savoir quand vous serez prêt.\""
                                           },
                                           "bulletin_title": "Scène de chasse",
                                           "dialog_title": "Un Lapin blessé",
@@ -10116,7 +10116,7 @@
          },
          "stone_window_frame_crossbeam": {
             "stone_window_frame_crossbeam_ghost": {
-               "display_name": "Cadre de fenêtre en pierre à traverses",
+               "display_name": "Cadre de fenêtre à traverses en pierre",
                "description": "Offre une petite protection contre les créatures qui essaient d'entrer par hasard."
             }
          },
@@ -12510,14 +12510,14 @@
                "display_name": "Piece of Meat Dumpling"
             },
             "dumpling_meat": {
-               "display_name": "Meat Dumpling",
-               "description": "A little bread pocket with meat stuffed inside."
+               "display_name": "Jiaozi à la viande",
+               "description": "Une petite poche de pain avec de la viande et des épices farcies à l'intérieur."
             }
          },
          "dumpling_vegetarian": {
             "dumpling_vegetarian": {
-               "display_name": "Veggie Dumpling",
-               "description": "A little bread pocket with veggies stuffed inside."
+               "display_name": "Jiaozi végétarien",
+               "description": "Une petite poche de pain avec des légumes et des épices farcies à l'intérieur."
             },
             "dumpling_vegetarian_serving": {
                "display_name": "Piece of Veggie Dumpling"
@@ -17085,9 +17085,9 @@
       },
       "geomancer": {
          "geomancer_description": {
-            "display_name": "???",
-            "description": "???",
-            "requirements": "???",
+            "display_name": "Géomancien",
+            "description": "Terraformes et crée de golems.",
+            "requirements": "Un talisman du clan Amberstone et la confiance en Hearth.",
             "level_2_data": {
                "perk_000_name": "Manipulation de la matière",
                "perk_000_description": "Le géomancien peut maintenant fabriquer des pierres qui manipulent l'eau et invoquent de grandes parcelles de terrain."
@@ -17748,7 +17748,7 @@
             },
             "stone_window_frame_crossbeam_recipe": {
                "description": "Une fenêtre plus élégante.",
-               "recipe_name": "Cadre de fenêtre en pierre à traverses",
+               "recipe_name": "Cadre de fenêtre à traverses en pierre",
                "flavor": "Est-ce ça qu'ils appellent une section transversale?"
             },
             "cobblestone_fence_combo_recipe": {
