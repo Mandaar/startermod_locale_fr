@@ -9886,13 +9886,21 @@
          },
          "wooden_double_door_fine": {
             "wooden_double_door_fine_ghost": {
+<<<<<<< HEAD
                "display_name": "Double porte ouvragée en bois",
+=======
+               "display_name": "Belle double porte en bois",
+>>>>>>> upstream/master
                "description": "Une porte plus grande avec du style supplémentaire. Tous vos amis seront envieux."
             }
          },
          "wooden_window_frame_fine": {
             "wooden_window_frame_fine_ghost": {
+<<<<<<< HEAD
                "display_name": "Cadre de fenêtre ouvragé en bois",
+=======
+               "display_name": "Beau cadre de fenêtre en bois",
+>>>>>>> upstream/master
                "description": "Et voilà pour la vie privée ..."
             }
          },
@@ -9904,25 +9912,41 @@
          },
          "wooden_window_frame_wide_fine": {
             "wooden_window_frame_wide_fine_ghost": {
+<<<<<<< HEAD
                "display_name": "Large cadre de fenêtre ouvragé",
+=======
+               "display_name": "Beau large cadre de fenêtre",
+>>>>>>> upstream/master
                "description": "C'est une vue panoramique !"
             }
          },
          "wooden_diamond_window_fine": {
             "wooden_diamond_window_fine_ghost": {
+<<<<<<< HEAD
                "display_name": "Cadre de fenêtre losange ouvragé",
+=======
+               "display_name": "Beau cadre de fenêtre losange",
+>>>>>>> upstream/master
                "description": "Et voilà pour la vie privée ..."
             }
          },
          "picket_fence_fine": {
             "picket_fence_fine_ghost": {
+<<<<<<< HEAD
                "display_name": "Clôture ouvragée en bois",
+=======
+               "display_name": "Belle clôture en bois",
+>>>>>>> upstream/master
                "description": "Si ce n'est pas blanc, c'est que votre vie est inassouvi ?"
             }
          },
          "picket_fence_gate_fine": {
             "picket_fence_gate_fine_ghost": {
+<<<<<<< HEAD
                "display_name": "Portail de clôture ouvragé en bois",
+=======
+               "display_name": "Beau portail de clôture en bois",
+>>>>>>> upstream/master
                "description": "Vous n'aimez pas vos voisins ? Ne l'installer alors surtout pas."
             }
          },
@@ -10116,7 +10140,11 @@
          },
          "stone_window_frame_crossbeam": {
             "stone_window_frame_crossbeam_ghost": {
+<<<<<<< HEAD
                "display_name": "Cadre de fenêtre à traverses en pierre",
+=======
+               "display_name": "Cadre de fenêtre en pierre à traverses",
+>>>>>>> upstream/master
                "description": "Offre une petite protection contre les créatures qui essaient d'entrer par hasard."
             }
          },
@@ -10248,13 +10276,21 @@
          },
          "large_crate_fine": {
             "large_crate_fine_ghost": {
+<<<<<<< HEAD
                "display_name": "Grande caisse ouvragée",
+=======
+               "display_name": "Belle grande caisse",
+>>>>>>> upstream/master
                "description": "Peut contenir jusqu'à 32 articles, avec du style"
             }
          },
          "leather_bound_chest_fine": {
             "leather_bound_chest_fine_ghost": {
+<<<<<<< HEAD
                "display_name": "Coffre ouvragé relié en cuir",
+=======
+               "display_name": "Beau coffre en cuir lié",
+>>>>>>> upstream/master
                "description": "Peut contenir jusqu'à 64 articles, avec du style"
             }
          },
@@ -16200,7 +16236,11 @@
             },
             "simple_wooden_chair_recipe": {
                "description": "En position assise, la nourriture est 20% plus satisfaisante.",
+<<<<<<< HEAD
                "recipe_name": "Simple chaise en bois",
+=======
+               "recipe_name": "Chaise en bois",
+>>>>>>> upstream/master
                "flavor": "Dix mille ans de recherche ont aboutis à ce concept à quatre pieds."
             },
             "small_crate_recipe": {
@@ -17321,11 +17361,19 @@
             },
             "level_3_data": {
                "perk_000_name": "Connaissance de compagnon",
+<<<<<<< HEAD
                "perk_000_description": "Quand l'inspiration frappe, le maçon est capable de fabriquer une qualité particulièrement Ouvragé."
             },
             "level_5_data": {
                "perk_000_name": "Point de vue du maître",
                "perk_000_description": "Le maçon peut maintenant créer des articles d'excellente qualité, et fera des articles de qualité Ouvragé plus souvent."
+=======
+               "perk_000_description": "Quand l'inspiration frappe, le maçon est capable de fabriquer une qualité particulièrement fine."
+            },
+            "level_5_data": {
+               "perk_000_name": "Point de vue du maître",
+               "perk_000_description": "Le maçon peut maintenant créer des articles d'excellente qualité, et fera des articles de qualité fine plus souvent."
+>>>>>>> upstream/master
             }
          },
          "mason_chisel": {
@@ -17748,7 +17796,11 @@
             },
             "stone_window_frame_crossbeam_recipe": {
                "description": "Une fenêtre plus élégante.",
+<<<<<<< HEAD
                "recipe_name": "Cadre de fenêtre à traverses en pierre",
+=======
+               "recipe_name": "Cadre de fenêtre en pierre à traverses",
+>>>>>>> upstream/master
                "flavor": "Est-ce ça qu'ils appellent une section transversale?"
             },
             "cobblestone_fence_combo_recipe": {
@@ -17773,7 +17825,11 @@
             },
             "market_shelf_tall_ground_stone": {
                "description": "D'autres joueurs et voyageurs peuvent acheter des marchandises stockées sur ces étagères.",
+<<<<<<< HEAD
                "recipe_name": "Étal de commerce",
+=======
+               "recipe_name": "Étagère de marché",
+>>>>>>> upstream/master
                "flavor": "La poubelle d'un Hearthling est le trésor d'un autre ... n'est-ce pas?"
             }
          }
